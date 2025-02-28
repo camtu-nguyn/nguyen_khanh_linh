@@ -98,4 +98,4 @@ Bạn có thể cấu hình Grafana thông qua các biến môi trường:
 
 ---
 
-Chúc bạn cài đặt Docker thành công! 🚀
+Chúc bạn cài đặt thành công! 🚀
